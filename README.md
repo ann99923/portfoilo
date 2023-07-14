@@ -17,10 +17,10 @@
 >개발 기간:
 >  
 >기술 스택:    
->Java 11 / Spring framework / oracle DB
+>Java 11 / Spring framework / oracle DB <br>
 >HTML5 / css / javascript / jquery
 >
->[프로젝트 상세 설명](https://github.com/ann99934/spring_3_project) 참고
+>[프로젝트 상세 설명](https://github.com/ann99934/Tam-shop.git) 참고
 
 ---
 ### 1. [University System](https://github.com/ann99934/JSP_2_Project)
@@ -28,7 +28,7 @@
 >개발 기간: 2023.04.10 ~ 2023.04.21 
 >  
 >기술 스택:    
->Java 11 / oracle DB
+>Java 11 / oracle DB <br>
 >HTML5 / css / javascript / jquery
 >
 >[프로젝트 상세 설명](https://github.com/ann99934/JSP_2_Project) 참고
