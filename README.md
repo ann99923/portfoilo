@@ -12,7 +12,7 @@
 
 ## :pushpin: Projects
 
-### 1. [Tam Shop](https://github.com/ann99934/spring_3_project)
+### 1. [Tam Shop](https://github.com/ann99934/Tam-shop.git)
 >(팀 프로젝트)  
 >개발 기간:
 >  
