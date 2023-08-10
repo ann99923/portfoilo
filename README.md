@@ -23,7 +23,7 @@
 >[프로젝트 상세 설명](https://github.com/ann99923/Tam-shop.git) 참고
 
 ---
-### 1. [University System](https://github.com/ann99923/Hi-University.git)
+### 2. [University System](https://github.com/ann99923/Hi-University.git)
 >대학 학사관리 + 커뮤니티 시스템 (팀 프로젝트)  
 >개발 기간: 2023.04.10 ~ 2023.04.21 
 >  
